@@ -1,1 +1,1 @@
-# -Code-Music-Visuliser-
+JS-Music-Visuliser
